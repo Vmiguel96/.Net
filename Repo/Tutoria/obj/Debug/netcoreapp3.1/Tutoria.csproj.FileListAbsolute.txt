@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.exe
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.deps.json
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.runtimeconfig.json
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.dll
+C:\Users\muyac\source\repos\Tutoria\bin\Debug\netcoreapp3.1\Tutoria.pdb
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.AssemblyInfo.cs
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.dll
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.pdb
+C:\Users\muyac\source\repos\Tutoria\obj\Debug\netcoreapp3.1\Tutoria.genruntimeconfig.cache
