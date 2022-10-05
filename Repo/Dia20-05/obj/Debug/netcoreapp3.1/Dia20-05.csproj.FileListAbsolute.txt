@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.exe
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.deps.json
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.runtimeconfig.json
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.dll
+C:\Users\muyac\source\repos\Dia20-05\bin\Debug\netcoreapp3.1\Dia20-05.pdb
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.AssemblyInfo.cs
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.dll
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.pdb
+C:\Users\muyac\source\repos\Dia20-05\obj\Debug\netcoreapp3.1\Dia20-05.genruntimeconfig.cache
