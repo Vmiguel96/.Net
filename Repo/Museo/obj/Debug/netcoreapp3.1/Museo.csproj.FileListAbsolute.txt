@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.exe
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.deps.json
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.runtimeconfig.json
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.dll
+C:\Users\muyac\source\repos\Museo\bin\Debug\netcoreapp3.1\Museo.pdb
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.AssemblyInfo.cs
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.dll
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.pdb
+C:\Users\muyac\source\repos\Museo\obj\Debug\netcoreapp3.1\Museo.genruntimeconfig.cache
