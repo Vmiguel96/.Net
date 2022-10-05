@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dia 21-05/1.0.0": {
+        "runtime": {
+          "Dia 21-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dia 21-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
