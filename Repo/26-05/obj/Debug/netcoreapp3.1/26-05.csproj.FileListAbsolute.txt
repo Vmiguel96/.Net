@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.exe
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.deps.json
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.runtimeconfig.json
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.dll
+C:\Users\muyac\source\repos\26-05\bin\Debug\netcoreapp3.1\26-05.pdb
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.AssemblyInfo.cs
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.dll
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.pdb
+C:\Users\muyac\source\repos\26-05\obj\Debug\netcoreapp3.1\26-05.genruntimeconfig.cache
