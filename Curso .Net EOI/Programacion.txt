@@ -1,0 +1,7 @@
+1- Crear una funcion void (int numero)
+2- Dividir el numeros por 10 y guardarlos
+3- Sumar los Restos
+4- Dividir el numero entre el resto
+5-Si el numero es divisible entre el resto 
+
+
