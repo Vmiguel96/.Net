@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.exe
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.deps.json
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.runtimeconfig.json
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.dll
+C:\Users\muyac\source\repos\Calcula\bin\Debug\netcoreapp3.1\Calcula.pdb
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.AssemblyInfo.cs
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.dll
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.pdb
+C:\Users\muyac\source\repos\Calcula\obj\Debug\netcoreapp3.1\Calcula.genruntimeconfig.cache

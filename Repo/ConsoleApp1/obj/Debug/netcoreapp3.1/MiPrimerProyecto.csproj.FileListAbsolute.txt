@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.exe
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.deps.json
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.json
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+C:\Users\muyac\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+C:\Users\muyac\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\MiPrimerProyecto.genruntimeconfig.cache
