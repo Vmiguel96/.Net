@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.exe
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.deps.json
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.runtimeconfig.json
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.dll
+C:\Users\muyac\source\repos\04-06\bin\Debug\netcoreapp3.1\04-06.pdb
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.AssemblyInfo.cs
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.dll
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.pdb
+C:\Users\muyac\source\repos\04-06\obj\Debug\netcoreapp3.1\04-06.genruntimeconfig.cache
