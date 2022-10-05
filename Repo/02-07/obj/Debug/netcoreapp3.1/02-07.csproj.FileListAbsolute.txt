@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.exe
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.deps.json
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.runtimeconfig.json
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.dll
+C:\Users\muyac\source\repos\02-07\bin\Debug\netcoreapp3.1\02-07.pdb
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.csprojAssemblyReference.cache
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.AssemblyInfo.cs
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.dll
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.pdb
+C:\Users\muyac\source\repos\02-07\obj\Debug\netcoreapp3.1\02-07.genruntimeconfig.cache
