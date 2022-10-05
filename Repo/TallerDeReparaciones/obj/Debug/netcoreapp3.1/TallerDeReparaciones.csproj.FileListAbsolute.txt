@@ -1,0 +1,13 @@
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.exe
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.deps.json
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.runtimeconfig.json
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.runtimeconfig.dev.json
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.dll
+C:\Users\muyac\source\repos\TallerDeReparaciones\bin\Debug\netcoreapp3.1\TallerDeReparaciones.pdb
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.AssemblyInfoInputs.cache
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.AssemblyInfo.cs
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.csproj.CoreCompileInputs.cache
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.dll
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.pdb
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.genruntimeconfig.cache
+C:\Users\muyac\source\repos\TallerDeReparaciones\obj\Debug\netcoreapp3.1\TallerDeReparaciones.csprojAssemblyReference.cache
